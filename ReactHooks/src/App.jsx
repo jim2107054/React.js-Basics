@@ -2,6 +2,7 @@ import React from 'react'
 // import Counter from '../Hooks/useState/Counter'
 // import FetchData from '../Hooks/useEffect/fetchData'
 import BgColor from '../Hooks/useLayoutEffect/BgColor'
+import BdGovt from '../Hooks/useContext/propsDrilling/BdGovt'
 
 const App = () => {
   return (
@@ -13,7 +14,10 @@ const App = () => {
       {/* <FetchData /> */}
 
       {/* useLayoutEffect Hooks */}
-      <BgColor />
+      {/* <BgColor /> */}
+
+      {/* propsDrilling */}
+      <BdGovt />
     </div>
   )
 }
