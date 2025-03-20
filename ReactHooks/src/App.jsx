@@ -1,6 +1,7 @@
 import React from 'react'
-import Counter from '../Hooks/useState/Counter'
-import FetchData from '../Hooks/useEffect/fetchData'
+// import Counter from '../Hooks/useState/Counter'
+// import FetchData from '../Hooks/useEffect/fetchData'
+import BgColor from '../Hooks/useLayoutEffect/BgColor'
 
 const App = () => {
   return (
@@ -9,7 +10,10 @@ const App = () => {
       {/* <Counter /> */}
 
       {/* useEffect Hooks */}
-      <FetchData />
+      {/* <FetchData /> */}
+
+      {/* useLayoutEffect Hooks */}
+      <BgColor />
     </div>
   )
 }
