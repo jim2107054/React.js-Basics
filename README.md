@@ -19,21 +19,21 @@ This repository contains fundamental examples, concepts, and mini-projects to ge
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/reactjs-basics.git
+   git clone https://github.com/jim2107054/React.js-Basics.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd reactjs-basics
+   cd project-name
    ```
 3. Install dependencies:
    ```bash
    npm install
    ```
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
    ```
-5. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+5. Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ## 🛠 Tech Stack
 - React.js (Vite or Create-React-App)
