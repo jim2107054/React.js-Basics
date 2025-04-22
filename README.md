@@ -40,19 +40,6 @@ This repository contains fundamental examples, concepts, and mini-projects to ge
 - JavaScript (ES6+)
 - HTML5 & CSS3
 
-## ✨ Project Structure
-```bash
-/reactjs-basics
-  ├── public/
-  ├── src/
-  │    ├── components/
-  │    ├── pages/
-  │    ├── App.js
-  │    └── index.js
-  ├── package.json
-  └── README.md
-```
-
 ## 📌 Prerequisites
 - Basic knowledge of HTML, CSS, and JavaScript.
 - Node.js and npm installed.
